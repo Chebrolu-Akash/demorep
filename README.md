@@ -2,4 +2,4 @@
 mini demo
 ## sub header
 reverse demo
-git init akash
+git init akash not there
