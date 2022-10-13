@@ -2,4 +2,8 @@
 mini demo
 ## sub header
 reverse demo
-git init akash not there
+git init akash
+
+# Local Developer
+ adding new feature
+ 
